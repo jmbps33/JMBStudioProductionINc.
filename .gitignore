@@ -1,0 +1,8 @@
+# Node and build files
+node_modules/
+dist/
+*.log
+.env
+.vscode/
+__pycache__/
+*.zip
